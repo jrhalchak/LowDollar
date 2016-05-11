@@ -1,2 +1,2 @@
-# LowDollar
-My DOM library
+# _$ (LowDollar)
+My very own DOM wrapper
